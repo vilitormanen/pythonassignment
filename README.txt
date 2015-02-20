@@ -1,3 +1,28 @@
+Assignment
+==========
+Make python program that monitors web sites and reports their availability.
+
+Requirements:
+- Read URLs and corresponding page content requirements from a configuration file
+- Periodically make HTTP request to each URL
+- Verify page content
+- Measure the time
+- Write log file
+- Content requirement can be simple string that must be included in the reponse
+- Pay attention to design and be ready to defend architectural decisions
+
+Background
+==========
+I got this assignment and it was supposed to do with Python. 
+I have practically zero programming experience on Python. First I learned little bit 
+about the language and the syntax at http://www.codecademy.com/en/tracks/python. 
+Then I started experimenting with one requirement at a time. When I knew how to do 
+things I designed the architecture and using the knowledge from the experiments 
+I wrote the program. I made all this during Tuesday - Saturday. I spent about 2 days 
+doing the course at codeacademy and 3 days experimenting with the code, 
+designing architecture, writing program and reviewing the program and writing 
+description. I used 5-8 hours per day for this project.
+
 Running the program
 ===================
 Program takes one argument from command line which is the period between URL polling in seconds. 
