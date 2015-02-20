@@ -14,7 +14,7 @@ Requirements:
 Background
 ==========
 I got this assignment and it was supposed to do with Python. 
-I have practically zero programming experience on Python. First I learned little bit 
+I had practically zero programming experience on Python. First I learned little bit 
 about the language and the syntax at http://www.codecademy.com/en/tracks/python. 
 Then I started experimenting with one requirement at a time. When I knew how to do 
 things I designed the architecture and using the knowledge from the experiments 
@@ -22,6 +22,10 @@ I wrote the program. I made all this during Tuesday - Saturday. I spent about 2 
 doing the course at codeacademy and 3 days experimenting with the code, 
 designing architecture, writing program and reviewing the program and writing 
 description. I used 5-8 hours per day for this project.
+
+I know there is limitations and threading should be done a little different way to be
+much better. But the main thing was getting something done. Maybe I will update the
+solution some day. 
 
 Running the program
 ===================
